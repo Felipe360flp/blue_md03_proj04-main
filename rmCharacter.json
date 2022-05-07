@@ -1,0 +1,22 @@
+[
+  {
+    "nome": "Orthodox Jew",
+    "url": "https://rickandmortyapi.com/api/character/avatar/255.jpeg"
+  },
+  {
+    "nome": "Rick Sanchez",
+    "url": "https://rickandmortyapi.com/api/character/avatar/290.jpeg"
+  },
+  {
+    "nome": "Riq IV",
+    "url": "https://rickandmortyapi.com/api/character/avatar/295.jpeg"
+  },
+  {
+    "nome": "Retired General Rick",
+    "url": "https://rickandmortyapi.com/api/character/avatar/481.jpeg"
+  },
+  {
+    "nome": "Miles Knightly",
+    "url": "https://rickandmortyapi.com/api/character/avatar/544.jpeg"
+  }
+]
